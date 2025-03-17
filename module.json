@@ -1,0 +1,19 @@
+{
+  "title": "Grid Scaler",
+  "description": "Adds a button to the scene grid configuration tab. Zoom in on map and click the corners of a grid square on the image to scale the grid automatically",
+  "version": "1.0.0",
+  "scripts": [ "module.js"],
+  "url": "https://github.com/abbination/grid-scaler",
+  "manifest": "https://raw.githubusercontent.com/abbination/grid-scaler/master/manifest.json",
+  "download": "https://raw.githubusercontent.com/abbination/grid-scaler/master/grid-scaler.zip",
+  "id": "grid-scaler",
+	"name": "grid-scaler",
+  "author": "abbination",
+  "authors": [{"name":"abbination"}],
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "12",
+  "compatibility": {
+      "minimum": "9",
+      "verified": "12"
+    }
+}
